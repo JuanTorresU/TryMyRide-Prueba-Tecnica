@@ -12,4 +12,8 @@ require('./bootstrap');
  * or customize the JavaScript scaffolding to fit your unique needs.
  */
 
-require('./components/Example');
+require('./components/WelcomeLogged');
+require('./components/WelcomeUnlogged');
+
+import WelcomeUnlogged from './components/WelcomeUnlogged.js'
+import WelcomeLogged from './components/WelcomeUnlogged.js'
