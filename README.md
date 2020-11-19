@@ -1,5 +1,5 @@
 ## Información
-Este repositorio contiene un sistema de inicio de sesion y registro funcional, hecho con Laravel y React.js.
+Este repositorio contiene un sistema de inicio de sesion y registro funcional, hecho con Laravel y React.js sobre la plantilla que trae PHP artisan.
 
 
 ## Requisitos
