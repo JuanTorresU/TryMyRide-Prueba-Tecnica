@@ -1,5 +1,5 @@
-## Informacion
-Este repositorio contiene un sistema de inicio de sesion y registro funcional, hecho con Laravel y React.js
+## Información
+Este repositorio contiene un sistema de inicio de sesion y registro funcional, hecho con Laravel y React.js.
 
 
 ## Requisitos
