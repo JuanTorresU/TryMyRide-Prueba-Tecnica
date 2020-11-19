@@ -3,11 +3,11 @@ Este repositorio contiene un sistema de inicio de sesion y registro funcional, h
 
 
 ## Requisitos
--php7.4
--MYSQL
--Composer
--Laravel
--npm
+- PHP7.4
+- MYSQL
+- Composer
+- Laravel
+- npm
 
 ## Procedimiento para replicarlo en local
 1. Se debe instalar algunas extensiones de PHP
