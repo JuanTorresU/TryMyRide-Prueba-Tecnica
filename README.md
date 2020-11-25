@@ -15,6 +15,10 @@ Este repositorio contiene un sistema de inicio de sesion y registro funcional, h
 ```
 sudo apt-get install php7.4-curl
 sudo apt-get install php7.4-mbstring
+<<<<<<< HEAD
+=======
+sudo apt-get install php7.4-xml
+>>>>>>> 0cbb405ef85d2004bb666dbf193ff03edabc32e5
 ```
 2. Luego se debe clonar el repositorio en la ubicación deseada, preferiblemente con permisos de usuario y no de root
 
